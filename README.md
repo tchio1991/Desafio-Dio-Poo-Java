@@ -4,9 +4,11 @@
 
 ### Descrição do Desafio
 
-* **Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Neste desafio, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes wink**
+* **Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Neste desafio, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes**
 
-### A **Programação Orientada a Objetos (POO)** diz respeito a um padrão de desenvolvimento que é seguido por muitas linguagens, como C# e Java. A seguir, iremos entender as diferenças entre a POO e a **Programação Estruturada**, que era muito utilizada há alguns anos, principalmente com a linguagem C. Esse padrão se baseia em quatro pilares que veremos ao longo desse artigo. Além disso, a POO diversas vantagens em sua utilização, que também serão vistas e explicadas.
+### Programação Orientada a Objetos (POO)
+
+* **A **Programação Orientada a Objetos (POO)** diz respeito a um padrão de desenvolvimento que é seguido por muitas linguagens, como C# e Java. A seguir, iremos entender as diferenças entre a POO e a **Programação Estruturada**, que era muito utilizada há alguns anos, principalmente com a linguagem C. Esse padrão se baseia em quatro pilares que veremos ao longo desse artigo. Além disso, a POO diversas vantagens em sua utilização, que também serão vistas e explicadas.**
 
 ### Os 4 pilares da Programação Orientada a Objetos
 
