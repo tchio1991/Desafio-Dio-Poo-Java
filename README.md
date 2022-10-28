@@ -1,6 +1,6 @@
 # Desafio Aprendendo POO na Prática
 
-### Repositório criado para entregar o desafio Aprendendo POO na Prática realizado na DIO
+## Repositório criado para entregar o desafio Aprendendo POO na Prática realizado na DIO
 
 ### Descrição do Desafio
 
