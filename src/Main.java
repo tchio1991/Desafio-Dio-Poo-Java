@@ -31,8 +31,6 @@ public class Main {
 
             System.out.println("\nAgora adicione os cursos deste Bootcamp");
 
-            // tentando implementar o loop para adicionar mais de um curso e mais de uma mentoria
-
             //Cadastro Curso
 
             //    do {
